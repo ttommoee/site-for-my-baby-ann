@@ -3,14 +3,14 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(102, 0, 0);
+    background-color: pink;
 }
 
 .header_text {
     font-family: 'Impact';
     font-size: 50px;
     font-weight: bold;
-    color: white;
+    color: red;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
